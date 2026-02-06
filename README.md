@@ -47,3 +47,17 @@ python -m venv .venv
 
 pip install -r requirements.txt
 python main.py
+
+## How to Use
+- Launch ProgreTomato
+- Click Pick Target (click next window)
+Then click the target app (browser / SAP GUI / Windows app)
+- Ensure Target Lock is ON
+- Click Start Recording
+- Perform your workflow in the target app
+- Click Stop
+- Edit steps as needed
+- Use:
+-- Run for full replay
+-- F10 to Step
+-- F8 to Reset Step
